@@ -1,4 +1,4 @@
-# Dataset for Reverse Vending Machine
+# Dataset for Waste Classification
 
 ## Dataset
 
