@@ -21,4 +21,4 @@
 ## Download
 
 If you are using our dataset, please give a citation of this repository. <br>
-The dataset can be downloaded [here](https://drive.google.com/drive/folders/1a2QQL3Nd8GYCUrMPWDopDkoM6xpf-HFj?usp=sharing).
+You can download the dataset [here](https://drive.google.com/drive/folders/1a2QQL3Nd8GYCUrMPWDopDkoM6xpf-HFj?usp=sharing).
