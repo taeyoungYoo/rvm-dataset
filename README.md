@@ -2,18 +2,23 @@
 
 ## Dataset
 
-3084 data
+- This dataset is consist of waste image, taken from different view.
+- There are 3084 data in the latest version.
+- The images are divided into aluminum cans, PET, non-target objects
+- Non-target objects are inappropriate object(IAO) and intentional fraud objects.
+
 ### train dataset
-- can 850
-- pet 810
-- non-target(IAO) 636
+- 850 Aluminum can
+- 810 PET
+- 636 Non-target(IAO)
 
 ### test dataset
-- can 264
-- pet 264
-- fraud 140
-- IAO 120
+- 264 Aluminum can
+- 264 PET
+- 140 Fraud object
+- 120 Non-target(IAO)
 
 ## Download
 
-If you are using the dataset, please give a citation of this repository. The dataset can be downloaded [here](https://drive.google.com/drive/folders/1a2QQL3Nd8GYCUrMPWDopDkoM6xpf-HFj?usp=sharing).
+If you are using our dataset, please give a citation of this repository. <br>
+The dataset can be downloaded [here](https://drive.google.com/drive/folders/1a2QQL3Nd8GYCUrMPWDopDkoM6xpf-HFj?usp=sharing).
