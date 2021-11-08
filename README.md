@@ -1,11 +1,11 @@
 # Dataset for Waste Classification
 
-This is a dataset for waste classification in reverse vending machine, consisting of 3,084 images. We constructed and publish this dataset to serve as a baseline dataset of studies for `reverse vending machine`, and `waste classification`.
+This is a dataset for waste classification in reverse vending machine, consisting of 3,084 images. We constructed and publish this dataset to serve as a baseline dataset of studies for `reverse vending machine`, and `waste classification`. The images are preprocessed only with cropping to focus on objects better.
 
 The figure below is the samples of this dataset.
 
 ## Composition of dataset
-- The images are divided into the top view and the front view primary.
+- The images are divided into the top view(1944p) and the front view(720p) primary.
 - The top view and the front view are further divided into aluminum cans, PET, non-target objects
 - Non-target objects are inappropriate object(IAO) and intentional fraud objects.
 
