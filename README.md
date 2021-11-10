@@ -25,7 +25,7 @@ The figure below is the samples of our dataset.
 
 The fraud objects represent the intentionally made look-alike objects to fool the classification system. They are printed PET beverage containers, printed aluminum cans, and objects made with only the label of the PET beverage container. The printed look-alike frauds are printed in color or grayscale.
 
-The figure below is the samples of intentional frauds.
+The figure below is the samples of intentional frauds. They may look same as general PET or aluminum cans, but they are all printed look-alike frauds.
 
 ![](sample/github_fraud_sample.JPG)
 
