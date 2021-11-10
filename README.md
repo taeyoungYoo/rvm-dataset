@@ -8,7 +8,7 @@ The figure below is the samples of our dataset.
 ![](sample/github_data_sample.JPG)
 
 ## Composition of dataset
-- The images are divided into the top view(1944p) and the front view(720p) primary.
+- The images are divided into the top view(2592x1944p) and the front view(1280x720p) primary.
 - The top view and the front view are further divided into aluminum cans, PET, non-target objects
 - Non-target objects are inappropriate object(IAO) and intentional fraud objects.
 
