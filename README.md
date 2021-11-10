@@ -1,6 +1,6 @@
 # Dataset for Waste Classification
 
-This is a dataset for waste classification in reverse vending machine (RVM), consisting of 3,084 images. We constructed and publish this dataset to serve as a baseline dataset of studies for `reverse vending machine`, and `waste classification`. The images are preprocessed with cropping or changing brightness(if needed) to highlight objects better.
+This is a dataset for waste classification in reverse vending machine (RVM), consisting of 3,084 images. We constructed and published this dataset to serve as a baseline dataset of studies for `reverse vending machine`, and `waste classification`. The images are preprocessed with cropping or changing brightness(if needed) to highlight objects better.
 
 To construct our dataset, we built the prototype RVM and collected the resources on our own. The objects are recycling resources that can be found on Republic of Korea(south).
 
