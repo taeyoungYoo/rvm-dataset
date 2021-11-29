@@ -33,15 +33,17 @@ The figure below is the samples of intentional frauds. They may look same as gen
 
 ## Download
 
-If you are using our dataset, please give a citation :
-  @article{yoo2021dual,
-    title={Dual Image-Based CNN Ensemble Model for Waste Classification in Reverse Vending Machine},
-    author={Yoo, Taeyoung and Lee, Seongjae and Kim, Taehyoun},
-    journal={Applied Sciences},
-    volume={11},
-    number={22},
-    pages={11051},
-    year={2021},
-    publisher={Multidisciplinary Digital Publishing Institute}
-  }
+If you are using our dataset, please give a citation:
+
+    @article{yoo2021dual,
+        title={Dual Image-Based CNN Ensemble Model for Waste Classification in Reverse Vending Machine},
+        author={Yoo, Taeyoung and Lee, Seongjae and Kim, Taehyoun},
+        journal={Applied Sciences},
+        volume={11},
+        number={22},
+        pages={11051},
+        year={2021},
+        publisher={Multidisciplinary Digital Publishing Institute}
+    }
+    
 You can download the dataset [here](https://drive.google.com/drive/folders/1a2QQL3Nd8GYCUrMPWDopDkoM6xpf-HFj?usp=sharing).
